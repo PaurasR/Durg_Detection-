@@ -1,2 +1,2 @@
-# Durg_Detection-
+# Drug_Detection-
 AI Drug Discovery and Molecular Activity prediction
